@@ -152,9 +152,18 @@ Ironing: Enabled (smooth top surfaces)
 - Always wear safety glasses when removing supports
 - Use proper ventilation when 3D printing
 - Allow printed parts to cool completely before handling
+---
+
+## 📸 Project Results
+
+### *ready for printing*:                           <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee4536be-7f62-4745-bbc1-8409875d7722" />
 
 ---
 **🎯 Created for:** Robot Elbow Joint Assembly  
 **🟡 Filament:** PLA+ Recommended  
 **🖨️ Printer Compatibility:** Most FDM printers  
 **📅 Last Updated:** July 2025
+ ---
+
+ ## 🧑‍💻 Author
+- **khaled mahmoud sulaimani** – [@khaledsulimani](https://github.com/khaledsulimani)
